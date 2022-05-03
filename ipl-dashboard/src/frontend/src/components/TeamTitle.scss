@@ -1,0 +1,17 @@
+.TeamTitle{
+    height: 100px;
+    text-align: center;
+    border: 1px solid #61DAFB;
+    padding-top: 37px;
+    color: #61DAFD;
+
+    .teamLink:hover{
+        color: #282C34;
+    }
+}
+
+.TeamTitle:hover {
+    background-color: #61DAFB;
+    color: #282C34;
+  }
+
